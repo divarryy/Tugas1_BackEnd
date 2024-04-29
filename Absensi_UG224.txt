@@ -3,3 +3,5 @@ Absensi Kelas UG224 :
 2. Yuda
 3. Bayu
 4. Galang
+5. Arka
+6. Praba
